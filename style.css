@@ -1,0 +1,19 @@
+p{
+    padding: 2%;
+    text-align: center;
+    color:yellow;
+    background-color: #000;
+}
+.imgmg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   text-align: center;
+    background-color: turquoise;
+    padding: 5%;
+}
